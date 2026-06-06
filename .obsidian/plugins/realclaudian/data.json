@@ -1,0 +1,22 @@
+{
+  "tabManagerState": {
+    "openTabs": [
+      {
+        "draftModel": "haiku",
+        "tabId": "tab-1778745995027-w2ln6zw",
+        "conversationId": null
+      },
+      {
+        "draftModel": "haiku",
+        "tabId": "tab-1779691371789-ybw3mdj",
+        "conversationId": null
+      },
+      {
+        "draftModel": "opus[1m]",
+        "tabId": "tab-1779692175944-zdh5v3o",
+        "conversationId": null
+      }
+    ],
+    "activeTabId": "tab-1779691371789-ybw3mdj"
+  }
+}

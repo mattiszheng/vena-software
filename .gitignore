@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Obsidian — 每台機器各自的 UI 狀態與快取，會造成衝突，不該同步
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Claudian / Claude / Agents — 機器專屬 AI 設定（Mac 上是指向 obsidian-private 的 symlink），
+# 不可跨機同步：在 Windows 會被還原成普通檔案，導致 Claudian 無法建立目錄（ENOTDIR）
+.claude
+.claudian
+.agents

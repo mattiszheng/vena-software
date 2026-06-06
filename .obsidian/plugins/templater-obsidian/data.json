@@ -1,0 +1,35 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "templates",
+  "templates_pairs": [
+    ["", ""]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "30 思想家 Thinkers",
+      "template": "templates/思想家.md"
+    },
+    {
+      "folder": "60 進行中 Active Work/PhD 申請 PhD Applications/supervisors",
+      "template": "templates/supervisor.md"
+    },
+    {
+      "folder": "60 進行中 Active Work",
+      "template": "templates/60-進行中.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ]
+}
